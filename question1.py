@@ -60,6 +60,3 @@ plt.show()  # Display the plot
 
 # Save the plot to a file instead of displaying it
 plt.savefig("NVDA_Closing_Prices_and_SMAs.png", bbox_inches='tight')
-
-# Close the plot to free up memory  
-plt.close()
