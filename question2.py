@@ -37,9 +37,3 @@ plt.show()
 
 # Save the plot to a file instead of displaying it
 plt.savefig("BYDDY_Daily_Returns_and_Rolling_Statistics.png", bbox_inches='tight')
-
-# Close the plot to free up memory
-
-plt.close()
-
-
